@@ -13,7 +13,7 @@
 - 🎓 Data Science Undergraduate (Year 2)
 - 💻 Full Stack Developer (React | Spring Boot | Node.js)
 - 🔍 Interested in AI, ML & System Development
-- 📫 Email: your-email@example.com
+- 📫 Email: senalanuraheesara@gmail.com
 
 ---
 
