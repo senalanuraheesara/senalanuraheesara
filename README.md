@@ -56,8 +56,35 @@
 
 ---
 
-## 🌐 Connect with Me
-<p>
-<a href="https://linkedin.com/in/senal-anuraheesara/">LinkedIn</a> |
-<a href="https://github.com/senalanuraheesara">GitHub</a>
+## 📌 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senalanuraheesara&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/senal-anuraheesara/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/senalanuraheesara">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 🚀 Fun Fact
+
+> 💡 I love solving real-world problems through coding and building efficient software solutions! 🎯
+
+---
+
+## 🔥 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=senalanuraheesara&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
