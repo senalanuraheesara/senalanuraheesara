@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Senal Anuraheesara</h1>
 <h3 align="center">💻 Data Science Undergraduate | Full Stack Developer</h3>
 
+<!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+Undergraduate;Full+Stack+Developer;React+%7C+Spring+Boot+%7C+Node.js;Passionate+about+AI+and+Web+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+Undergraduate;Full+Stack+Developer;React+%7C+Spring+Boot+%7C+Node.js;AI+%26+Web+Development+Enthusiast" />
 </p>
 
+<!-- 👀 Visitors + Followers -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=senalanuraheesara&label=Visitors&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/senalanuraheesara?label=Followers&style=flat&color=blue" />
@@ -45,14 +47,30 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics (Animated)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senalanuraheesara&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=senalanuraheesara&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senalanuraheesara&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senalanuraheesara&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 📌 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senalanuraheesara&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/senalanuraheesara/senalanuraheesara/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -61,14 +79,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=senalanuraheesara&theme=react-dark" />
-</p>
-
----
-
-## 📌 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senalanuraheesara&layout=compact&theme=radical" />
 </p>
 
 ---
