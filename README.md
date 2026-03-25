@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Senal Anuraheesara</h1>
 <h3 align="center">💻 Data Science Undergraduate | Full Stack Developer</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+Undergraduate;Full+Stack+Developer;React+%7C+Spring+Boot+%7C+Node.js;Passionate+about+AI+and+Web+Development" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=senalanuraheesara&label=Visitors&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/senalanuraheesara?label=Followers&style=flat&color=blue" />
+</p>
+
 ---
 
 🌱 I’m currently studying at **SLIIT**  
@@ -21,17 +30,17 @@
 
 ### 💻 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,bootstrap,ts" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,bootstrap,ts" />
 </p>
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,php,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,php,mysql,mongodb" />
 </p>
 
 ### 🧰 Tools & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
 </p>
 
 ---
@@ -64,14 +73,23 @@
 
 ---
 
-## 📬 Connect with Me
+## 🤝 Connect with Me
 
 <p align="center">
+  <a href="https://senalanuraheesara.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>&nbsp;
+
   <a href="https://linkedin.com/in/senal-anuraheesara/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/senalanuraheesara">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+
+  <a href="mailto:senalanuraheesara@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+
+  <a href="https://facebook.com/YOUR-FACEBOOK">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
@@ -80,11 +98,3 @@
 ## 🚀 Fun Fact
 
 > 💡 I love solving real-world problems through coding and building efficient software solutions! 🎯
-
----
-
-## 🔥 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=senalanuraheesara&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
