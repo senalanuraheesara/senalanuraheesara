@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=senalanuraheesara&label=Visitors&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/senalanuraheesara?label=Followers&style=flat&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=senalanuraheesara&label=Visitors&color=0e75b6&style=flat" alt="Visitors" />
+  <img src="https://img.shields.io/github/followers/senalanuraheesara?label=Followers&style=flat&color=blue" alt="Followers" />
 </p>
 
 ---
@@ -51,11 +51,11 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senalanuraheesara&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=senalanuraheesara&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senalanuraheesara&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=senalanuraheesara&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -63,7 +63,7 @@
 ## 📌 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senalanuraheesara&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senalanuraheesara&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
@@ -71,7 +71,7 @@
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/senalanuraheesara/senalanuraheesara/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/senalanuraheesara/senalanuraheesara/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -79,7 +79,7 @@
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=senalanuraheesara&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=senalanuraheesara&theme=react-dark" alt="Contribution Graph" />
 </p>
 
 ---
@@ -88,16 +88,16 @@
 
 <p align="center">
   <a href="https://senalanuraheesara.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>&nbsp;
   <a href="https://linkedin.com/in/senal-anuraheesara/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
   <a href="mailto:senalanuraheesara@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>&nbsp;
   <a href="https://facebook.com/share/1JfFXjEwtp/?mibextid=wwXIfr">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
